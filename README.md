@@ -86,6 +86,13 @@ manifest.webmanifest, robots.txt
 
 ---
 
+## Связь и сообщество
+
+- Связь: t.me/error_kill (TG/DS)
+- Все обновления и логи создания сервера можно видеть в чате русского комьюнити Jackbox: t.me/Jackbox_Pack_Chat
+
+---
+
 ## Благодарности
 
 Спасибо этим людям (Telegram):
